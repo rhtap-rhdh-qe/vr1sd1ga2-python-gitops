@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vr1sd1ga2-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vr1sd1ga2-python
